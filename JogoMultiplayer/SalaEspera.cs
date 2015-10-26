@@ -13,7 +13,7 @@ using System.Windows.Forms;
 
 namespace JogoMultiplayer
 {
-    public partial class SalaEspera : Form
+    public partial class  SalaEspera : Form
     {
         private Dictionary<string, Jogador> jogadoresMapa = new Dictionary<string, Jogador>();
 
